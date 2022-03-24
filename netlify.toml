@@ -1,4 +1,4 @@
 [build]
 base = "."
 command = "npm run build"
-puclish = "./build/"
+publish = "./build/"
